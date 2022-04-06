@@ -74,6 +74,7 @@ hr {
      gap: 10px;
      cursor: pointer;
      width: 200px;
+     text-decoration: none;
 }
 .register_btn span {
      color: #022e46;
@@ -94,6 +95,7 @@ hr {
      gap: 10px;
      cursor: pointer;
      width: 200px;
+     text-decoration: none;
 }
 .login_btn span {
      color: white;

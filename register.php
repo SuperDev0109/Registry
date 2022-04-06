@@ -6,8 +6,8 @@
      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-     <link href="../assets/css/include/narrow.css" rel="stylesheet">
-     <link href="../assets/css/register.css" rel="stylesheet">
+     <link href="./assets/css/include/narrow.css" rel="stylesheet">
+     <link href="./assets/css/register.css" rel="stylesheet">
 </head>
 
 <body>
@@ -42,11 +42,11 @@
                </div>
                <div class="upload_group">
                     <div class="box">
-                         <img src="../assets/img/login/upload_icon.png" />
+                         <img src="./assets/img/login/upload_icon.png" />
                          <span class="upload_title">Avatar Image</span>
                     </div>
                     <div class="box">
-                         <img src="../assets/img/login/upload_icon.png" />
+                         <img src="./assets/img/login/upload_icon.png" />
                          <span class="upload_title">Header Image <br /> (optional)</span>
                     </div>
                </div>
