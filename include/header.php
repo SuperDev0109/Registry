@@ -33,11 +33,11 @@
                          <span>Ready Registry</span>
                     </div>
                     <div class="box2">
-                         <a href="/git_registry/register.php" class="register_btn">
+                         <a href="/register.php" class="register_btn">
                               <img src="./assets/img/home/edit_icon.png" />
                               <span>Create Registry</span>
                          </a>
-                         <a href="/git_registry/login.php" class="login_btn">
+                         <a href="/login.php" class="login_btn">
                               <img src="./assets/img/home/login_icon.png" />
                               <span>Log in</span>
                          </a>
