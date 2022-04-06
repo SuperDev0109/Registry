@@ -54,6 +54,6 @@
      </div>
 
      <div class="row">
-          <span class="footer_bottom">Ready Registry by <a href="https://kpve.com/" class="kpve_text">KPVE</a> Group</span>
+          <span class="footer_bottom">Ready Registry by <a target="_blank" href="https://kpve.com/" class="kpve_text">KPVE</a> Group</span>
      </div>
      <!-- footer section end -->
