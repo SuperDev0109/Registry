@@ -28,16 +28,16 @@
                <img src="./assets/img/home/person1.png" />
           </div>
           <div class="box">
-               <img src="./assets/img/home/person1.png" />
+               <img src="./assets/img/home/person2.png" />
           </div>
           <div class="box">
-               <img src="./assets/img/home/person1.png" />
+               <img src="./assets/img/home/person3.png" />
           </div>
           <div class="box">
-               <img src="./assets/img/home/person1.png" />
+               <img src="./assets/img/home/person4.png" />
           </div>
           <div class="box">
-               <img src="./assets/img/home/person1.png" />
+               <img src="./assets/img/home/person5.png" />
           </div>
      </div>
      <!-- home back end -->
@@ -66,7 +66,7 @@
                     </div>
                     <div class="col-md-6 panel2">
                          <img src="./assets/img/home/girl_gift_rect.png" class="img1" />
-                         <img src="./assets/img/home/girl_gift_rect.png" class="img2" />
+                         <img src="./assets/img/home/girl_gift.png" class="img2" />
                          <!-- <img src="./assets/img/home/girl_gift.png" class="img2" /> -->
                     </div>
                </div>
@@ -88,14 +88,14 @@
                          <div class="row">
                               <div class="col-lg-2 col-md-3 col-sm-4">
                                    <div class="subbox">
-                                        <img src="./assets/img/home/gift3.png" />
+                                        <img src="./assets/img/home/gift1.png" />
                                         <span class="title1">Moving Out Registry</span>
                                         <span class="title2">View registry</span>
                                    </div>
                               </div>
                               <div class="col-lg-2 col-md-3 col-sm-4">
                                    <div class="subbox">
-                                        <img src="./assets/img/home/gift3.png" />
+                                        <img src="./assets/img/home/gift2.png" />
                                         <span class="title1">Engagement Registry</span>
                                         <span class="title2">View registry</span>
                                    </div>
@@ -109,21 +109,21 @@
                               </div>
                               <div class="col-lg-2 col-md-3 col-sm-4">
                                    <div class="subbox">
-                                        <img src="./assets/img/home/gift3.png" />
+                                        <img src="./assets/img/home/gift4.png" />
                                         <span class="title1">Wedding Gift Registry</span>
                                         <span class="title2">View registry</span>
                                    </div>
                               </div>
                               <div class="col-lg-2 col-md-3 col-sm-4">
                                    <div class="subbox">
-                                        <img src="./assets/img/home/gift3.png" />
+                                        <img src="./assets/img/home/gift5.png" />
                                         <span class="title1">Honeymoon Registry</span>
                                         <span class="title2">View registry</span>
                                    </div>
                               </div>
                               <div class="col-lg-2 col-md-3 col-sm-4">
                                    <div class="subbox">
-                                        <img src="./assets/img/home/gift3.png" />
+                                        <img src="./assets/img/home/gift6.png" />
                                         <span class="title1">Baby Shower Registry</span>
                                         <span class="title2">View registry</span>
                                    </div>
@@ -195,7 +195,7 @@
                               <span class="title3">Read More</span>
                          </div>
                          <div class="subbox">
-                              <img src="./assets/img/home/blog1.png" />
+                              <img src="./assets/img/home/blog2.png" />
                               <span class="title3">Mar 11, 2021 | Special Events</span>
                               <span class="title4">Lorem Ipsum</span>
                               <span class="title5">Lorem Ipsum is simply dummy text of the printing and
@@ -205,7 +205,7 @@
                               <span class="title3">Read More</span>
                          </div>
                          <div class="subbox">
-                              <img src="./assets/img/home/blog1.png" />
+                              <img src="./assets/img/home/blog3.png" />
                               <span class="title3">Mar 11, 2021 | Special Events</span>
                               <span class="title4">Lorem Ipsum</span>
                               <span class="title5">Lorem Ipsum is simply dummy text of the printing and
