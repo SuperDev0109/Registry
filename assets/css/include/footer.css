@@ -61,6 +61,17 @@
      padding: 25px;
      text-align: center;
      margin: 0;
+     letter-spacing: 1px;
+}
+
+.footer_bottom .kpve_text {
+     font-size: 18px;
+     color: #aedee4;
+     text-decoration: none;
+}
+
+.footer_bottom .kpve_text:hover {
+     color: #59d4e3;
 }
 
 .row {

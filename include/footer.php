@@ -10,10 +10,7 @@
                                    <img src="./assets/img/home/gift_logo.png" />
                                    <span class="title1">Ready Registry</span>
                               </div>
-                              <p class="title2">Lorem Ipsum is simply dummy text of the printing and
-                                   typesetting industry. Lorem Ipsum has been the
-                                   industry's standard dummy text ever since the 1500s,
-                                   when an unknown printer took a galley of...</p>
+                              <p class="title2">Create a centralised gift registry with our new and innovative platform. Fast, flexible, reliable software suitable for a diverse range of occasions.</p>
                          </div>
                     </div>
                     <div class="col-md-3">
@@ -57,6 +54,6 @@
      </div>
 
      <div class="row">
-          <span class="footer_bottom">Copyright 2022 All rights reserved</span>
+          <span class="footer_bottom">Ready Registry by <a href="https://kpve.com/" class="kpve_text">KPVE</a> Group</span>
      </div>
      <!-- footer section end -->
