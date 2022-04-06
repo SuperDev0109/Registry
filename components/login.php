@@ -13,7 +13,7 @@
 <body>
      <?php include('./include/header.php') ?>
      <!-- narrow component -->
-     <div class="narrow_section">
+     <div class="narrow_section"> 
           <span class="title1">Login</span>
           <span class="title2">Home -> Login</span>
      </div>
