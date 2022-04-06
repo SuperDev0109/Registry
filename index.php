@@ -6,7 +6,7 @@
      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-     <link href="../assets/css/home.css" rel="stylesheet">
+     <link href="./assets/css/home.css" rel="stylesheet">
 </head>
 
 <body>
@@ -25,19 +25,19 @@
 
      <div class="homeback_section_below">
           <div class="box">
-               <img src="../assets/img/home/person1.png" />
+               <img src="./assets/img/home/person1.png" />
           </div>
           <div class="box">
-               <img src="../assets/img/home/person1.png" />
+               <img src="./assets/img/home/person1.png" />
           </div>
           <div class="box">
-               <img src="../assets/img/home/person1.png" />
+               <img src="./assets/img/home/person1.png" />
           </div>
           <div class="box">
-               <img src="../assets/img/home/person1.png" />
+               <img src="./assets/img/home/person1.png" />
           </div>
           <div class="box">
-               <img src="../assets/img/home/person1.png" />
+               <img src="./assets/img/home/person1.png" />
           </div>
      </div>
      <!-- home back end -->
@@ -65,9 +65,9 @@
                          <button>Read More</button>
                     </div>
                     <div class="col-md-6 panel2">
-                         <img src="../assets/img/home/girl_gift_rect.png" class="img1" />
-                         <img src="../assets/img/home/girl_gift_rect.png" class="img2" />
-                         <!-- <img src="../assets/img/home/girl_gift.png" class="img2" /> -->
+                         <img src="./assets/img/home/girl_gift_rect.png" class="img1" />
+                         <img src="./assets/img/home/girl_gift_rect.png" class="img2" />
+                         <!-- <img src="./assets/img/home/girl_gift.png" class="img2" /> -->
                     </div>
                </div>
           </div>
@@ -88,42 +88,42 @@
                          <div class="row">
                               <div class="col-lg-2 col-md-3 col-sm-4">
                                    <div class="subbox">
-                                        <img src="../assets/img/home/gift3.png" />
+                                        <img src="./assets/img/home/gift3.png" />
                                         <span class="title1">Moving Out Registry</span>
                                         <span class="title2">View registry</span>
                                    </div>
                               </div>
                               <div class="col-lg-2 col-md-3 col-sm-4">
                                    <div class="subbox">
-                                        <img src="../assets/img/home/gift3.png" />
+                                        <img src="./assets/img/home/gift3.png" />
                                         <span class="title1">Engagement Registry</span>
                                         <span class="title2">View registry</span>
                                    </div>
                               </div>
                               <div class="col-lg-2 col-md-3 col-sm-4">
                                    <div class="subbox">
-                                        <img src="../assets/img/home/gift3.png" />
+                                        <img src="./assets/img/home/gift3.png" />
                                         <span class="title1">Wishing Well</span>
                                         <span class="title2">View registry</span>
                                    </div>
                               </div>
                               <div class="col-lg-2 col-md-3 col-sm-4">
                                    <div class="subbox">
-                                        <img src="../assets/img/home/gift3.png" />
+                                        <img src="./assets/img/home/gift3.png" />
                                         <span class="title1">Wedding Gift Registry</span>
                                         <span class="title2">View registry</span>
                                    </div>
                               </div>
                               <div class="col-lg-2 col-md-3 col-sm-4">
                                    <div class="subbox">
-                                        <img src="../assets/img/home/gift3.png" />
+                                        <img src="./assets/img/home/gift3.png" />
                                         <span class="title1">Honeymoon Registry</span>
                                         <span class="title2">View registry</span>
                                    </div>
                               </div>
                               <div class="col-lg-2 col-md-3 col-sm-4">
                                    <div class="subbox">
-                                        <img src="../assets/img/home/gift3.png" />
+                                        <img src="./assets/img/home/gift3.png" />
                                         <span class="title1">Baby Shower Registry</span>
                                         <span class="title2">View registry</span>
                                    </div>
@@ -146,17 +146,17 @@
                     <span class="title2">Here's why you should register on our gift registry website!</span>
                     <div class="box">
                          <div class="subbox">
-                              <center><img src="../assets/img/home/easy1.png" /></center>
+                              <center><img src="./assets/img/home/easy1.png" /></center>
                               <span class="title3">Completely Custom</span>
                               <span class="title4">Any store. Any gift. Even wishing wells and cash funds!</span>
                          </div>
                          <div class="subbox">
-                              <center><img src="../assets/img/home/easy2.png" /></center>
+                              <center><img src="./assets/img/home/easy2.png" /></center>
                               <span class="title3">User Friendly</span>
                               <span class="title4">Your guests will love the convenience of online checkout</span>
                          </div>
                          <div class="subbox">
-                              <center><img src="../assets/img/home/easy3.png" /></center>
+                              <center><img src="./assets/img/home/easy3.png" /></center>
                               <span class="title3">Supremely Simple</span>
                               <span class="title4">We make it easy for your guests to contribute
                                    with credit card, Paypal, cash, bank
@@ -185,7 +185,7 @@
                     </span>
                     <div class="box">
                          <div class="subbox">
-                              <img src="../assets/img/home/blog1.png" />
+                              <img src="./assets/img/home/blog1.png" />
                               <span class="title3">Mar 11, 2021 | Special Events</span>
                               <span class="title4">Lorem Ipsum</span>
                               <span class="title5">Lorem Ipsum is simply dummy text of the printing and
@@ -195,7 +195,7 @@
                               <span class="title3">Read More</span>
                          </div>
                          <div class="subbox">
-                              <img src="../assets/img/home/blog1.png" />
+                              <img src="./assets/img/home/blog1.png" />
                               <span class="title3">Mar 11, 2021 | Special Events</span>
                               <span class="title4">Lorem Ipsum</span>
                               <span class="title5">Lorem Ipsum is simply dummy text of the printing and
@@ -205,7 +205,7 @@
                               <span class="title3">Read More</span>
                          </div>
                          <div class="subbox">
-                              <img src="../assets/img/home/blog1.png" />
+                              <img src="./assets/img/home/blog1.png" />
                               <span class="title3">Mar 11, 2021 | Special Events</span>
                               <span class="title4">Lorem Ipsum</span>
                               <span class="title5">Lorem Ipsum is simply dummy text of the printing and

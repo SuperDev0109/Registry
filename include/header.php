@@ -1,21 +1,21 @@
      
-     <link href="../assets/css/include/header.css" rel="stylesheet">
+     <link href="./assets/css/include/header.css" rel="stylesheet">
      <!-- top header -->
      <div class="top_header_section">
           <div class="container">
                <div class="panel">
                     <div class="panel1">
                          <div class="box">
-                              <img src="../assets/img/home/mail_icon.png" />
+                              <img src="./assets/img/home/mail_icon.png" />
                               <span>info@gmail.com</span>
                          </div>
                          <div class="box">
-                              <img src="../assets/img/home/phone_icon.png" />
+                              <img src="./assets/img/home/phone_icon.png" />
                               <span>+91 88888-99999</span>
                          </div>
                     </div>
                     <div class="panel2">
-                         <img src="../assets/img/home/shop_icon.png" />
+                         <img src="./assets/img/home/shop_icon.png" />
                          <span>Shopping cart(0)</span>
                     </div>
                </div>
@@ -29,16 +29,16 @@
           <div class="container">
                <div class="panel">
                     <div class="box1">
-                         <img src="../assets/img/home/gift_logo.png" />
+                         <img src="./assets/img/home/gift_logo.png" />
                          <span>Ready Registry</span>
                     </div>
                     <div class="box2">
                          <span class="register_btn">
-                              <img src="../assets/img/home/edit_icon.png" />
+                              <img src="./assets/img/home/edit_icon.png" />
                               <span>Create Registry</span>
                          </span>
                          <span class="login_btn">
-                              <img src="../assets/img/home/login_icon.png" />
+                              <img src="./assets/img/home/login_icon.png" />
                               <span>Log in</span>
                          </span>
                     </div>

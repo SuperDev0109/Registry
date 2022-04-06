@@ -1,5 +1,5 @@
      
-     <link href="../assets/css/include/footer.css" rel="stylesheet">
+     <link href="./assets/css/include/footer.css" rel="stylesheet">
      <!-- footer section -->
      <div class="footer_section">
           <div class="container">
@@ -7,7 +7,7 @@
                     <div class="col-md-3">
                          <div class="panel1">
                               <div class="box">
-                                   <img src="../assets/img/home/gift_logo.png" />
+                                   <img src="./assets/img/home/gift_logo.png" />
                                    <span class="title1">Ready Registry</span>
                               </div>
                               <p class="title2">Lorem Ipsum is simply dummy text of the printing and
