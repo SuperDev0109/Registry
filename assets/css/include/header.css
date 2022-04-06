@@ -1,0 +1,122 @@
+/* top header */
+.top_header_section .panel {
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+     padding: 15px 0 10px;
+}
+
+.top_header_section .panel .panel1 {
+     display: flex;
+     flex-direction: row;
+     gap: 20px;
+}
+
+.top_header_section .panel .panel1 .box {
+     display: flex;
+     flex-direction: row;
+     gap: 20px; 
+     align-items: center;
+}
+
+.top_header_section .panel .panel2 {
+     display: flex;
+     flex-direction: row;
+     gap: 20px;
+     justify-content: center;
+     align-items: center;
+}
+
+hr {
+     background-color: gray;
+}
+
+/* top header end */
+
+/* header */
+.header_section .panel {
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+     align-items: center;
+     padding: 10px 0 25px;
+}
+
+.header_section .panel .box1 {
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     align-items: center;
+     gap: 20px;
+     font-size: 40px;
+}
+.header_section .panel .box2 {
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     align-items: center;
+     gap: 20px;
+}
+/* header end */
+
+/* button style */
+.register_btn {
+     border-top-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-bottom-right-radius: 50px;
+     border: 1px solid #183a53;
+     padding: 10px 20px;
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     align-items: center;
+     gap: 10px;
+     cursor: pointer;
+     width: 200px;
+}
+.register_btn span {
+     color: #022e46;
+}
+
+.login_btn {
+     border-top-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-bottom-right-radius: 50px;
+     border: 1px solid #183a53;
+     background-color: #183a53;
+     padding: 10px 20px;
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     align-items: center;
+     gap: 10px;
+     cursor: pointer;
+     width: 200px;
+}
+.login_btn span {
+     color: white;
+}
+/* button style end */
+
+/* nav */
+.nav_section {
+     background-color: #183a53;
+}
+
+.nav_section .panel {
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     align-items: center;
+     gap: 30px;
+     color: white;
+     padding: 25px 0;
+}
+
+.nav_section .panel a {
+     text-decoration: none;
+     color: white;
+}
+/* nav end */

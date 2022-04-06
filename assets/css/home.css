@@ -1,0 +1,306 @@
+
+/* homeback */
+.homeback_section {
+     padding: 200px 0;
+     background-image: url('../img/home/home_back.png');
+}
+
+.homeback_section .panel {
+     display: flex;
+     flex-direction: column;
+     gap: 40px;
+     padding-left: 50px;
+}
+
+.homeback_section .title1 {
+     color: #022e46;
+     font-size: 50px;
+}
+
+.homeback_section .title2 {
+     color: #000000;
+     font-size: 35px;
+}
+
+.homeback_section .box {
+     display: flex;
+     flex-direction: row;
+     gap: 20px;
+}
+
+.homeback_section .box .btn1 {
+     border-top-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-bottom-right-radius: 50px;
+     border: 1px solid #183a53;
+     background-color: #183a53;
+     padding: 20px;
+     cursor: pointer;
+     width: 270px;
+     color: white;
+     text-align: center;
+}
+
+.homeback_section .box .btn2 {
+     border-top-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-bottom-right-radius: 50px;
+     border: 1px solid #fa869b;
+     background-color: #fa869b;
+     padding: 20px;
+     cursor: pointer;
+     width: 270px;
+     color: white;
+     text-align: center;
+}
+
+     /* below images */
+.homeback_section_below {
+     display: flex;
+     flex-direction: row;
+     gap: 10px;
+     padding: 20px 20px 80px;
+}
+.homeback_section_below .box {
+}
+.homeback_section_below .box img {
+     border-radius: 20px 20px 40px;
+     width: 100%;
+}
+     /* below images end */
+/* homeback end */
+
+/* feel section */
+.feel_section {
+     padding-bottom: 50px;
+}
+
+.feel_section .panel1 {
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+}
+
+.feel_section .panel1 .title1 {
+     font-size: 40px;
+     color: #022e46;
+}
+
+.feel_section .panel1 .title2 {
+     opacity: 0.56;
+     color: #000000;
+     line-height: 2rem;
+}
+
+.feel_section .panel1 button {
+     border-top-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-bottom-right-radius: 50px;
+     border: 1px solid #183a53;
+     background-color: #183a53;
+     padding: 20px 20px;
+     cursor: pointer;
+     width: 270px; 
+     color: white;
+}
+
+.feel_section .panel2 {
+     position: relative;
+}
+.feel_section .panel2 .img1 {
+     position: absolute;
+     top: 0;
+     left: 0;
+}
+.feel_section .panel2 .img2 {
+     position: absolute;
+     bottom: 0;
+     left: 70px;
+     height: 506px;
+}
+/* feel section end */
+
+/* milestone section */
+.milestone_section {
+     padding: 50px 0;
+     background-image: url('../img/home/milestone_back.png');
+}
+
+.milestone_section .panel {
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+     width: 100%;
+     position: relative;
+}
+
+.milestone_section .panel .title1 {
+     text-align: center;
+     font-size: 40px;
+     color: #022e46;
+}
+
+.milestone_section .panel .title2 {
+     text-align: center;
+     color: #000000;
+     opacity: 0.699999988079071;
+     line-height: 2rem;
+}
+
+.milestone_section .panel .box {
+     /* display: flex;
+     flex-direction: row;
+     justify-content: space-evenly; */
+}
+
+.milestone_section .panel .box .subbox {
+     display: flex;
+     flex-direction: column;
+     gap: 10px;
+     justify-content: center;
+     align-items: center;
+}
+
+.milestone_section .panel .box .subbox .title1 {
+     font-size: 16px;
+     color: #000000;
+}
+
+.milestone_section .panel .box .subbox .title2 {
+     color: #fa869b;
+     font-size: 14px;
+}
+
+.milestone_section .panel .rect {
+     position: absolute;
+     bottom: 0;
+     border: 1px dashed #022e46;
+     border-width: 2px;
+     height: 135px;
+     width: 100%;
+     z-index: -1;
+}
+/* milestone section end */
+
+/* easy section */
+.easy_section {
+     padding: 50px 0;
+}
+
+.easy_section .panel {
+     display: flex;
+     flex-direction: column;
+     gap: 30px;
+}
+
+.easy_section .panel .title1 {
+     font-size: 40px;
+     color: #022e46;
+     text-align: center;
+}
+
+.easy_section .panel .title2 {
+     color: #000000;
+     opacity: 0.699999988079071;
+     text-align: center;
+}
+
+.easy_section .panel .box {
+     display: flex;
+     flex-direction: row;
+     justify-content: space-evenly;
+     gap: 40px;
+}
+
+.easy_section .panel .box .subbox {
+     padding: 30 50px;
+     display: flex;
+     flex-direction: column;
+     gap: 30px;
+     flex: 1;
+     text-align: center;
+     background-color: rgba(2, 46, 70, 0.03999999910593033);
+}
+
+.easy_section .panel .box .subbox img {
+     text-align: center;
+     width: 107px;
+}
+
+.easy_section .panel .box .subbox .title3 {
+     font-size: 23px;
+     color: #000000;
+     opacity: 0.699999988079071;
+     line-height: 2rem;
+}
+
+.easy_section .panel .box .subbox .title4 {
+     font-size: 16px;
+     color: #000000;
+     opacity: 0.699999988079071;
+     line-height: 2rem;
+}
+/* easy section end */
+
+/* bugg section */
+/* bugg section end */
+
+/* blog section */
+.blog_section .panel {
+     display: flex;
+     flex-direction: column;
+     gap: 30px;
+}
+
+.blog_section .panel .title1 {
+     font-size: 40px;
+     color: #022e46;
+     text-align: center;
+}
+
+.blog_section .panel .title2 {
+     color: #000000;
+     opacity: 0.699999988079071;
+     text-align: center;
+}
+
+.blog_section .panel .box {
+     display: flex;
+     flex-direction: row;
+     gap: 20px;
+}
+
+.blog_section .panel .box .subbox {
+     flex: 1;
+     padding: 15px;
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+     background-color: #f3f5f7;
+     border-radius: 20px;
+}
+
+.blog_section .panel .box .subbox img {
+     width: 100%;
+}
+
+.blog_section .panel .box .subbox .title3 {
+     font-size: 16px;
+     color: #fa869b;
+}
+
+.blog_section .panel .box .subbox .title4 {
+     font-size: 23px;
+     color: #022e46;
+}
+
+.blog_section .panel .box .subbox .title5 {
+     font-size: 16px;
+     color: #000000;
+     opacity: 0.47999998927116394;
+     line-height: 2rem;
+}
+/* blog section end */

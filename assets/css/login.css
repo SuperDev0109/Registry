@@ -1,0 +1,81 @@
+.login_section {
+     width: 652px;
+     height: 524px;
+     border-radius: 20px;
+     background-color: rgb(2, 46, 70, 0.029999999329447746);
+     align-items: center;
+     margin: 50px auto;
+     padding: 80px 50px;
+     display: flex;
+     flex-direction: column;
+     gap: 30px;
+}
+/* email form */
+.login_section .email_form {
+     position: relative;
+     width: 100%;
+}
+
+.login_section .email_form .email_icon {
+     position: absolute;
+     top: 25px;
+     left: 32px;
+}
+
+#email_input {
+     border-radius: 20px;
+     background-color: white;
+     padding: 20px 20px 20px 80px;
+     border: none;
+     outline: none;
+     width: 100%;
+}
+/* email form end */
+
+
+/* password form */
+.login_section .password_form {
+     position: relative;
+     width: 100%;
+}
+
+.login_section .password_form .password_icon {
+     position: absolute;
+     top: 25px;
+     left: 32px;
+}
+
+#password_input {
+     border-radius: 20px;
+     background-color: white;
+     padding: 20px 20px 20px 80px;
+     border: none;
+     outline: none;
+     width: 100%;
+}
+/* password form end */
+
+.login_section .title1 {
+     font-size: 23px;
+     color: #fa869b;
+     float: right;
+     width: 100%;
+     text-align: right;
+}
+
+.login_section .loginBtn {
+     background-color: #fa869b;
+     border: none;
+     outline: none;
+     width: 300px;
+     padding: 20px;
+     color: white;
+     border-top-left-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-right-radius: 50px;
+}
+
+.login_section .loginBtn:hover {
+     background-color: #f57089;
+}
