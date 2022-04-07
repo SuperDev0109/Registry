@@ -51,9 +51,9 @@
      <div class="nav_section">
           <div class="container">
                <div class="panel">
-                    <a href="#">Home</a>
-                    <a href="#">About Us</a>
-                    <a href="#">How it works</a>
+                    <a href="/index.php">Home</a>
+                    <a href="/aboutus.php">About Us</a>
+                    <a href="/how.php">How it works</a>
                     <a href="#">Features</a>
                     <a href="#">Blogs</a>
                     <a href="#">Search Registries</a>
