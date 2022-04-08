@@ -41,7 +41,7 @@
                     </div>
                </div>
                <div class="col-md-4 boxPadding">
-                    <div class="box" style="background-color: #e1b4bb">
+                    <div class="box" style="background-color: #fa869b">
                          <span class="title1 white">
                               Registry & <br /> 
                               Wishing Well

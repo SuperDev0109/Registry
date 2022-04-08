@@ -47,8 +47,8 @@
      border-top-right-radius: 50px;
      border-bottom-left-radius: 50px;
      border-bottom-right-radius: 50px;
-     border: 1px solid #e1b4bb;
-     background-color: #e1b4bb;
+     border: 1px solid #fa869b;
+     background-color: #fa869b;
      padding: 20px;
      cursor: pointer;
      width: 270px;
@@ -172,7 +172,7 @@
 }
 
 .milestone_section .panel .box .subbox .title2 {
-     color: #e1b4bb;
+     color: #fa869b;
      font-size: 14px;
 }
 
@@ -291,7 +291,7 @@
 
 .blog_section .panel .box .subbox .title3 {
      font-size: 16px;
-     color: #e1b4bb;
+     color: #fa869b;
 }
 
 .blog_section .panel .box .subbox .title4 {

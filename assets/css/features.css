@@ -36,7 +36,7 @@
 }
 
 .featuresBox .registryBtn {
-     background-color: #e1b4bb;
+     background-color: #fa869b;
      border: none;
      outline: none;
      width: 250px;
@@ -51,5 +51,5 @@
 }
 
 .featuresBox .registryBtn:hover {
-     background-color: #e49faa;
+     background-color: f3768d;
 }
