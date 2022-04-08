@@ -54,7 +54,7 @@
                     <a href="/index.php">Home</a>
                     <a href="/aboutus.php">About Us</a>
                     <a href="/how.php">How it works</a>
-                    <a href="/features.php">Features</a>
+                    <a href="/feature.php">Features</a>
                     <a href="/blogs.php">Blogs</a>
                     <a href="#">Search Registries</a>
                     <a href="/pricing.php">Pricing</a>
