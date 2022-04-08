@@ -57,7 +57,7 @@
                     <a href="/features.php">Features</a>
                     <a href="/blogs.php">Blogs</a>
                     <a href="#">Search Registries</a>
-                    <a href="/game.php">Pricing</a>
+                    <a href="/pricing.php">Pricing</a>
                </div>
           </div>
      </div>
