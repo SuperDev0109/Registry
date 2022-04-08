@@ -10,7 +10,7 @@
 
 .aboutus_section .story_box .title1 {
      font-size: 40px;
-     color: #022e46;
+     color: #214b6b;
 }
 
 .aboutus_section .story_box .title2 {
@@ -40,7 +40,7 @@
 .rect_section {
      margin-top: 70px;
      padding: 70px 0px;
-     background-color: #022e46;
+     background-color: #214b6b;
 }
 
 .rect_section_panel {
@@ -62,7 +62,7 @@
 }
 
 .rect_section .box .title1 {
-     color: #fa869b;
+     color: #e1b4bb;
      font-size: 35px;
 }
 
@@ -117,7 +117,7 @@
 }
 
 .wedding_section .wedding_ul li::marker {
-     color: #fa869b;
+     color: #e1b4bb;
 }
 
 .wedding_footer_section {
@@ -137,5 +137,5 @@
 
 .wedding_footer_section .wedding_footer_section_box .title2 {
      font-size: 20px;
-     color: #fa869b;
+     color: #e1b4bb;
 }

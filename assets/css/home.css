@@ -13,7 +13,7 @@
 }
 
 .homeback_section .title1 {
-     color: #022e46;
+     color: #214b6b;
      font-size: 50px;
 }
 
@@ -33,8 +33,8 @@
      border-top-right-radius: 50px;
      border-bottom-left-radius: 50px;
      border-bottom-right-radius: 50px;
-     border: 1px solid #183a53;
-     background-color: #183a53;
+     border: 1px solid #214b6b;
+     background-color: #214b6b;
      padding: 20px;
      cursor: pointer;
      width: 270px;
@@ -47,8 +47,8 @@
      border-top-right-radius: 50px;
      border-bottom-left-radius: 50px;
      border-bottom-right-radius: 50px;
-     border: 1px solid #fa869b;
-     background-color: #fa869b;
+     border: 1px solid #e1b4bb;
+     background-color: #e1b4bb;
      padding: 20px;
      cursor: pointer;
      width: 270px;
@@ -87,7 +87,7 @@
 
 .feel_section .panel1 .title1 {
      font-size: 40px;
-     color: #022e46;
+     color: #214b6b;
 }
 
 .feel_section .panel1 .title2 {
@@ -142,7 +142,7 @@
 .milestone_section .panel .title1 {
      text-align: center;
      font-size: 40px;
-     color: #022e46;
+     color: #214b6b;
 }
 
 .milestone_section .panel .title2 {
@@ -172,14 +172,14 @@
 }
 
 .milestone_section .panel .box .subbox .title2 {
-     color: #fa869b;
+     color: #e1b4bb;
      font-size: 14px;
 }
 
 .milestone_section .panel .rect {
      position: absolute;
      bottom: 0;
-     border: 1px dashed #022e46;
+     border: 1px dashed #214b6b;
      border-width: 2px;
      height: 135px;
      width: 100%;
@@ -200,7 +200,7 @@
 
 .easy_section .panel .title1 {
      font-size: 40px;
-     color: #022e46;
+     color: #214b6b;
      text-align: center;
 }
 
@@ -259,7 +259,7 @@
 
 .blog_section .panel .title1 {
      font-size: 40px;
-     color: #022e46;
+     color: #214b6b;
      text-align: center;
 }
 
@@ -291,12 +291,12 @@
 
 .blog_section .panel .box .subbox .title3 {
      font-size: 16px;
-     color: #fa869b;
+     color: #e1b4bb;
 }
 
 .blog_section .panel .box .subbox .title4 {
      font-size: 23px;
-     color: #022e46;
+     color: #214b6b;
 }
 
 .blog_section .panel .box .subbox .title5 {

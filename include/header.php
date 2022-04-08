@@ -1,5 +1,6 @@
      
      <link href="./assets/css/include/header.css" rel="stylesheet">
+     <link href="./assets/css/include/font.css" rel="stylesheet">
      <!-- top header -->
      <div class="top_header_section">
           <div class="container">
@@ -7,11 +8,11 @@
                     <div class="panel1">
                          <div class="box">
                               <img src="./assets/img/home/mail_icon.png" />
-                              <span>info@gmail.com</span>
+                              <span>info@readyregistry.com</span>
                          </div>
                          <div class="box">
                               <img src="./assets/img/home/phone_icon.png" />
-                              <span>+91 88888-99999</span>
+                              <span>Available 24/7 Via Live Chat</span>
                          </div>
                     </div>
                     <div class="panel2">
@@ -30,7 +31,6 @@
                <div class="panel">
                     <div class="box1">
                          <img src="./assets/img/home/gift_logo.png" />
-                         <span>Ready Registry</span>
                     </div>
                     <div class="box2">
                          <a href="/register.php" class="register_btn">
@@ -54,10 +54,10 @@
                     <a href="/index.php">Home</a>
                     <a href="/aboutus.php">About Us</a>
                     <a href="/how.php">How it works</a>
-                    <a href="#">Features</a>
-                    <a href="#">Blogs</a>
+                    <a href="/features.php">Features</a>
+                    <a href="/blogs.php">Blogs</a>
                     <a href="#">Search Registries</a>
-                    <a href="#">Pricing</a>
+                    <a href="/game.php">Pricing</a>
                </div>
           </div>
      </div>

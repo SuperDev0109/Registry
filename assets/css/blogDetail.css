@@ -1,0 +1,227 @@
+.blogs_detail {
+     padding-top: 50px;
+}
+
+.blogs_detail .panel {
+     padding: 10px;
+}
+
+.blogs_detail .panel_latest {
+     padding: 10px;
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+}
+
+.blogs_detail .panel .detail_box {
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+     background-color: rgba(0, 0, 0, 0.03999999910593033);
+}
+
+.blogs_detail .panel .detail_box .title1 {
+      font-size: 28px;
+      color: #000000;
+      padding: 0 10px;
+}
+
+.blogs_detail .panel .detail_box .title2 {
+     font-size: 16px;
+     color: #000000;
+     line-height: 2rem;
+     padding: 0 20px;
+}
+
+.blogs_detail .panel .arrow_section {
+     padding-top: 30px;
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+}
+
+.comments_box {
+     display: flex;
+     flex-direction: column;
+     gap: 30px;
+     padding-top: 30px;
+}
+
+.comments_box .title1 {
+     font-size: 28px;
+     color: #000000;
+}
+
+.comments_box .user_comment {
+     display: flex;
+     flex-direction: row;
+     gap: 20px;
+     align-items: center;
+}
+
+.comments_box .user_comment .comments {
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+}
+
+.comments_box .user_comment .comments .title2 {
+     color: #000000;
+     font-size: 20px;
+}
+
+.comments_box .user_comment .comments .title3 {
+     color: #7d7d7d;
+     font-size: 16px;
+}
+
+.comments_box .user_comment .comments .title4 {
+     color: #000000;
+     font-size: 16px;
+}
+
+.post_section {
+     display: flex;
+     flex-direction: column;
+     gap: 30px;
+     padding-top: 30px;
+}
+
+.post_section .title1 {
+     font-size: 25px;
+     color: #000000;
+}
+
+.post_section .leftPadding {
+     padding-left: 10px;
+}
+
+.post_section .rightPadding {
+     padding-right: 10px;
+}
+
+
+.post_section .commentInput {
+     border: none;
+     outline: none;
+     padding: 20px;
+     background-color: rgba(0, 0, 0, 0.03999999910593033);
+     border-radius: 20px;
+}
+
+.post_section .nameInput {
+     width: 100%;
+     background-color: rgba(0, 0, 0, 0.03999999910593033);
+     border: none;
+     outline: none;
+     border-top-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-bottom-right-radius: 50px;
+     padding: 20px;
+}
+
+.post_section .emailInput {
+     width: 100%;
+     background-color: rgba(0, 0, 0, 0.03999999910593033);
+     border: none;
+     outline: none;
+     border-top-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-bottom-right-radius: 50px;
+     padding: 20px;
+}
+
+.post_section .title2 {
+     font-size: 16px;
+     color: #7d7d7d;
+}
+
+.postBtn {
+     background-color: #e1b4bb;
+     border: none;
+     outline: none;
+     width: 250px;
+     padding: 15px 0;
+     margin-top: 15px;
+     color: white;
+     border-top-left-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-right-radius: 50px;
+     text-align: center;
+}
+
+.postBtn:hover {
+     background-color: #e49faa;
+}
+
+.latest_section {
+     background-color: rgba(0, 0, 0, 0.03999999910593033);
+     padding: 20px;
+}
+
+.latest_section .panel {
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+}
+
+.latest_section .title1 {
+     color: #000000;
+     font-size: 25px;
+     padding: 10px;
+}
+
+.latest_section .panel .box {
+     display: flex;
+     flex-direction: row;
+     gap: 10px;
+     align-items: center;
+}
+
+.latest_section .panel .box .box_right {
+     display: flex;
+     flex-direction: column;
+     line-height: 2rem;
+     gap: 10px;
+}
+
+.latest_section .panel .box .box_right .title2 {
+     color: #000000;
+     font-size: 16px;
+}
+
+.latest_section .panel .box .box_right .title3 {
+     color: rgba(0, 0, 0, 0.47999998927116394);
+     font-size: 16px;
+}
+
+.category_section {
+     padding: 20px;
+     background-color: rgba(0, 0, 0, 0.03999999910593033);
+}
+
+.category_section .panel {
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+}
+
+.category_section .panel .title1 {
+     font-size: 25px;
+     color: #000000;
+}
+
+.category_section .panel .box .subbox {
+     padding: 4px;
+}
+
+.category_section .panel .box .title2 {
+     padding: 10px;
+     color: rgba(0, 0, 0, 0.47999998927116394);
+     background-color: #FFFFFF;
+     width: 100%;
+     text-align: center;
+}

@@ -86,7 +86,7 @@
 }
 
 .register_section .saveBtn {
-     background-color: #fa869b;
+     background-color: #e1b4bb;
      border: none;
      outline: none;
      width: 272px;
@@ -99,5 +99,5 @@
 }
 
 .register_section .saveBtn:hover {
-     background-color: #f57089;
+     background-color: #e49faa;
 }

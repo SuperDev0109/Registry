@@ -47,15 +47,33 @@
 
 .footer_section .panel2 .box {
      color: #000000;
+}
+
+.footer_section .panel2 .box a {
+     display: flex;
+     text-decoration: none;
+     color: #000000;
+     line-height: 2rem;
      opacity: 0.47999998927116394;
 }
 
-.footer_section .panel2 .box p {
+.footer_section .panel2 .box div {
      display: flex;
+     flex-direction: row;
+     align-items: center;
+     gap: 10px;
+}
+
+.footer_section .panel2 .box span {
+     display: flex;
+     text-decoration: none;
+     color: #000000;
+     line-height: 2rem;
+     opacity: 0.47999998927116394;
 }
 
 .footer_bottom {
-     background-color: #022e46;
+     background-color: #214b6b;
      color: white;
      font-size: 16px;
      padding: 25px;
