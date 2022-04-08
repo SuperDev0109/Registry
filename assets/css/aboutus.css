@@ -1,0 +1,141 @@
+.aboutus_section {
+     padding-top: 100px;
+}
+
+.aboutus_section .story_box {
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+}
+
+.aboutus_section .story_box .title1 {
+     font-size: 40px;
+     color: #022e46;
+}
+
+.aboutus_section .story_box .title2 {
+     font-size: 16px;
+     line-height: 2rem;
+     color: black;
+     opacity: 0.5699999928474426;
+}
+
+.aboutus_section .story_box_image {
+     position: relative;
+     padding-left: 50px;
+}
+
+.aboutus_section .story_box_image .image1 {
+     height: 506px;
+}
+
+.aboutus_section .story_box_image .image2 {
+     position: absolute;
+     top: -60px;
+     left: 210px;
+     height: 506px;
+     z-index: -1;
+}
+
+.rect_section {
+     margin-top: 70px;
+     padding: 70px 0px;
+     background-color: #022e46;
+}
+
+.rect_section_panel {
+     display: flex;
+     flex-direction: row;
+     gap: 20px;
+     justify-content: space-between;
+}
+
+.rect_section .box {
+     display: flex;
+     flex-direction: column;
+     gap: 10px;
+     justify-content: center;
+     align-items: center;
+     padding: 70px 90px;
+     background-color: rgba(255, 255, 255, 0.05999999865889549);
+     border-radius: 10px;
+}
+
+.rect_section .box .title1 {
+     color: #fa869b;
+     font-size: 35px;
+}
+
+.rect_section .box .title2 {
+     font-size: 25px;
+     color: #FFFFFF;
+}
+
+.ready_section {
+     padding-top: 50px;
+}
+
+.ready_section .ready_section_panel {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     gap: 15px;
+}
+
+.ready_section .ready_section_panel .title1 {
+     font-size: 40px;
+     color: #022e46;
+     line-height: 2rem;
+     text-align: center;
+}
+
+.ready_section .ready_section_panel .title2 {
+     font-size: 16px;
+     color: #000000;
+     opacity: 0.5699999928474426;
+     line-height: 2rem;
+     text-align: center;
+}
+
+.ready_section .ready_section_panel .title3 {
+     font-size: 20px;
+     color: #000000;
+     line-height: 2rem;
+     text-align: center;
+}
+
+.wedding_section {
+     padding-top: 50px;
+}
+
+.wedding_section .wedding_ul {
+     display: flex;
+     flex-direction: column;
+     gap: 25px;
+     font-size: 20px;
+}
+
+.wedding_section .wedding_ul li::marker {
+     color: #fa869b;
+}
+
+.wedding_footer_section {
+     padding-top: 50px;
+}
+
+.wedding_footer_section .wedding_footer_section_box {
+     display: flex;
+     flex-direction: column;
+     gap: 40px;
+}
+
+.wedding_footer_section .wedding_footer_section_box .title1 {
+     font-size: 20px;
+     color: #000000;
+}
+
+.wedding_footer_section .wedding_footer_section_box .title2 {
+     font-size: 20px;
+     color: #fa869b;
+}
