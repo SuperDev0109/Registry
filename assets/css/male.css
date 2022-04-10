@@ -1,0 +1,84 @@
+.navbar_section {
+     padding-top: 50px;
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     align-items: center;
+     gap: 20px;
+}
+
+.box_section {
+     padding-top: 30px;
+}
+
+ul li .nav-link {
+     color: rgba(0, 0, 0, 0.4);
+     font-size: 20px;
+     padding: 15px 30px;
+}
+
+ul li .active {
+     background-color: rgba(250, 134, 155, 0.05000000074505806) !important;
+     color: #000000 !important;
+}
+
+.header_title_section {
+     color: #000000;
+     font-size: 16px;
+     line-height: 2rem;
+     text-align: center;
+}
+
+.panelPadding {
+     padding: 5px;
+     display: flex;
+}
+
+.panelPadding .panel {
+     background-color: rgba(2, 46, 70, 0.029999999329447746);
+     border-radius: 20px;
+}
+
+.panelPadding .panel .box {
+     padding: 10px;
+     display: flex;
+     flex-direction: column;
+     gap: 15px;
+     align-items: center;
+     height: 100%;
+
+}
+
+.panelPadding .panel .box .box_image {
+     border-radius: 20px;
+     width: 100%;
+}
+
+.panelPadding .panel .box .title1 {
+     font-size: 20px;
+     color: #000000;
+}
+
+.panelPadding .panel .box .bottomBox {
+     display: flex;
+     flex-direction: column;
+     justify-content: space-between;
+     align-items: center;
+     height: 100%;
+}
+
+.panelPadding .panel .box .bottomBox .title2 {
+     color: #000000;
+     line-height: 2rem;
+     font-size: 13px;
+     text-align: center;
+}
+
+.panelPadding .panel .box .bottomBox .startBox {
+     display: flex;
+     flex-direction: row;
+     gap: 5px;
+     justify-content: center;
+     align-items: center;
+}
+

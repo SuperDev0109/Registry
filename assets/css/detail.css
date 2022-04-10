@@ -1,0 +1,9 @@
+.detail_section {
+     padding-top: 50px;
+}
+
+.detail_section .right_box {
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+}
