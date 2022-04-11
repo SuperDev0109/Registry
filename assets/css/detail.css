@@ -1,3 +1,7 @@
+.mdPadding {
+     padding: 20px;
+}
+
 .detail_section {
      padding-top: 50px;
 }
@@ -6,4 +10,402 @@
      display: flex;
      flex-direction: column;
      gap: 20px;
+}
+
+.panel_left {
+     display: flex;
+     flex-direction: row;
+     gap: 20px;
+}
+
+.panel_left img {
+     width: 100%;
+}
+
+.panel_left .thumbnails {
+     display: flex;
+     flex-direction: column;
+     gap: 10px;
+     justify-content: space-evenly;
+}
+
+.panel_right {
+     display: flex;
+     flex-direction: column;
+     gap: 30px;
+     justify-content: center;
+     height: 100%;
+}
+
+.panel_right .title1 {
+     font-size: 25px;
+     color: #000000;
+}
+
+.panel_right .starBox {
+
+}
+
+.panel_right .btnSelect {
+     display: flex;
+     flex-direction: row;
+     gap: 20px;
+     align-items: center;
+}
+
+.panel_right .colorBox {
+     display: flex;
+     flex-direction: row;
+     gap: 15px;
+}
+
+.panel_right .title2 {
+     font-size: 25px;
+     color: rgba(0, 0, 0, 0.6);
+}
+
+.panel_right .title2Box {
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+}
+
+.panel_right .title2Box .box {
+     display: flex;
+     flex-direction: row;
+     gap: 20px;
+     align-items: center;
+}
+
+.panel_right .title2Box .box span {
+     font-size: 25px;
+     color: rgba(0, 0, 0, 0.6);
+}
+
+.panel_right .btnSelect .countBtn {
+     background-color: #FFFFFF;
+     color: #000000;
+     outline: none;
+     border: 1px solid #000000;
+     padding: 15px 40px;
+     border-top-left-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-right-radius: 50px;
+     font-weight: 700;
+}
+
+.panel_right .btnSelect .cartBtn {
+     background-color: #fa869b;
+     border: none;
+     outline: none;
+     width: 300px;
+     padding: 20px;
+     color: white;
+     border-top-left-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-right-radius: 50px;
+}
+
+.panel_right .btnSelect .cartBtn:hover {
+     background-color: #f3768d;
+}
+
+/* navbar start */
+.navbar_section {
+     padding-top: 50px;
+}
+
+ul li .nav-link {
+     color: rgba(0, 0, 0, 0.4);
+     font-size: 20px;
+     padding: 15px 30px;
+}
+
+.nav-pills .nav-link {
+     border-radius: 0;
+ }
+
+ul li button:hover {
+     color: #fa869b !important;
+     border-bottom: 1px solid #fa869b !important;
+     background-color: #FFFFFF !important;
+}
+
+ul li .active {
+     color: #fa869b !important;
+     border-bottom: 1px solid #fa869b !important;
+     background-color: #FFFFFF !important;
+}
+
+#pills-tabContent {
+     padding: 20px !important;
+}
+
+.box_section {
+     display: flex;
+     flex-direction: column;
+}
+
+.box_section_artwork {
+     display: flex;
+     flex-direction: column;
+     align-items: flex-start;
+}
+
+.box_section .title1, .box_section_artwork .title1 {
+     font-size: 16px;
+     color: rgba(0, 0, 0, 0.4);
+     line-height: 2rem;
+     padding-bottom: 50px;
+}
+
+.box_section .title4 {
+     padding-top: 30px;
+     font-size: 20px;
+     color: #000000;
+}
+
+.box_section .free_bottom {
+     padding-top: 30px;
+     display: flex;
+     flex-direction: column;
+     gap: 30px;
+}
+
+.box_section .free_bottom .title5 {
+     color: rgba(0, 0, 0, 0.4);
+     font-size: 20px;
+}
+
+.box_section .formBox {
+     display: flex;
+     flex-direction: row;
+     gap: 30px;
+}
+
+.box_section .formBox_art {
+     display: flex;
+     flex-direction: row;
+     gap: 30px;
+}
+
+.box_section .formBox_art .title2 {
+     font-size: 20px;
+     color: #000000;
+     flex: 3;
+}
+
+.box_section .formBox_art .title3 {
+     font-size: 20px;
+     color: rgba(0, 0, 0, 0.4);
+     flex: 11;
+}
+
+
+
+.box_section .formBox .title2 {
+     font-size: 20px;
+     color: #000000;
+     flex: 1;
+}
+
+.box_section .formBox .title3 {
+     font-size: 20px;
+     color: rgba(0, 0, 0, 0.4);
+     flex: 11;
+}
+
+.formBoxHr {
+     background-color: rgba(0, 0, 0, 0.2);
+}
+/* navbar end */
+
+.review_section {
+     display: flex;
+     flex-direction: column;
+}
+
+.review_section .total_review {
+     display: flex;
+     flex-direction: row;
+     gap: 30px;
+     justify-content: center;
+     align-items: center;
+}
+
+.review_section .write_section {
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+}
+
+.review_section .total_review .box {
+     display: flex;
+     flex-direction: column;
+     gap: 15px;
+}
+
+.review_section .total_review .box .title1 {
+     font-size: 25px;
+     color: rgba(1, 1, 1, 0.5);
+}
+
+.login_btn_write {
+     border-top-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-bottom-right-radius: 50px;
+     border: 1px solid #214b6b;
+     background-color: #214b6b;
+     padding: 12px 23px;
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     align-items: center;
+     gap: 10px;
+     cursor: pointer;
+     width: 270px;
+     text-decoration: none;
+}
+.login_btn_write span {
+     color: white;
+}
+
+.review_section .reviews_text {
+     font-size: 25px;
+     color: #000000;
+     padding-top: 40px;
+}
+
+.review_section .reviewBox {
+     padding-top: 40px;
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+}
+
+.review_section .reviewBox .panel {
+     display: flex;
+     flex-direction: row;
+     align-items: center;
+}
+
+.review_section .reviewBox .title1 {
+     font-size: 35px;
+     color: #000000;
+     padding-right: 20px;
+}
+
+.review_section .reviewBox .title2 {
+     font-size: 20px;
+     color: rgba(0, 0, 0, 0.5);
+}
+
+.review_section .reviewBox .title3 {
+     padding-top: 10px;
+     font-size: 20px;
+     color: #000000;
+}
+
+.review_section .reviewBox .title4 {
+     font-size: 20px;
+     color: rgba(0, 0, 0, 0.5);
+}
+
+.write_form {
+     padding-top: 50px;
+     display: flex;
+     flex-direction: column;
+}
+
+.write_form .title1 {
+     font-size: 25px;
+     color: #000000;
+     padding: 30px 0;
+}
+
+.write_review_form {
+     padding-top: 40px;
+}
+
+.input_detail_padding_left {
+     padding-left: 20px;
+}
+
+.input_detail_padding_right {
+     padding-right: 20px;
+}
+
+.input_detail_padding_top {
+     padding-top: 20px;
+}
+
+.write_review_form .nameInput {
+     padding: 20px 30px;
+     border-top-left-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-right-radius: 50px;
+     background-color: rgba(2, 46, 70, 0.029999999329447746);
+     border: none;
+     outline: none;
+     width: 100%;
+}
+
+.write_review_form .emailInput {
+     padding: 20px 30px;
+     border-top-left-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-right-radius: 50px;
+     background-color: rgba(2, 46, 70, 0.029999999329447746);
+     border: none;
+     outline: none;
+     width: 100%;
+}
+
+.write_review_form .reviewInput {
+     padding: 20px 30px;
+     border-top-left-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-right-radius: 50px;
+     background-color: rgba(2, 46, 70, 0.029999999329447746);
+     border: none;
+     outline: none;
+     width: 100%;
+}
+
+.write_review_form .reviewTextarea {
+     padding: 20px 30px;
+     border-top-left-radius: 20px;
+     border-bottom-left-radius: 20px;
+     border-top-right-radius: 20px;
+     border-bottom-right-radius: 20px;
+     background-color: rgba(2, 46, 70, 0.029999999329447746);
+     border: none;
+     outline: none;
+     width: 100%;
+}
+
+.write_review_form .reviewWriteBtn {
+     background-color: #fa869b;
+     border: none;
+     outline: none;
+     width: 250px;
+     padding: 15px 0;
+     margin-top: 15px;
+     color: white;
+     border-top-left-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-right-radius: 50px;
+     text-align: center;
+}
+
+.write_review_form .reviewWriteBtn:hover {
+     background-color: #f3768d;
 }
