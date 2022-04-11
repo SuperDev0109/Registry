@@ -61,7 +61,7 @@
                     to add</span>
                <div class="agree_group">
                     <input type="checkbox" />
-                    <span class="title6">I agree to the terms & conditions</span>
+                    <span class="title6">I agree to the <a class="termsText" href="/terms.php">terms & conditions</a></span>
                </div>
                <button class="saveBtn">Save</button>
           </div>

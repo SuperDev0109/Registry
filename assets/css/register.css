@@ -101,3 +101,7 @@
 .register_section .saveBtn:hover {
      background-color: #f3768d;
 }
+
+.termsText {
+     text-decoration: none !important;
+}
