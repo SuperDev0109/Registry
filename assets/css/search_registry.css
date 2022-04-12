@@ -43,6 +43,10 @@
      text-align: center;
 }
 
+.searchBox .searchBtn:hover {
+     background-color: #f3768d;
+}
+
 .registryBox .boxPadding {
      padding: 10px;
 }
