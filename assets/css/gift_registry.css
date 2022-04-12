@@ -1,0 +1,315 @@
+.gift_back_section {
+
+}
+
+.gift_back_section img {
+     width: 100%;
+}
+
+.positionRelative {
+     position: relative;
+}
+
+.circleImg {
+     position: absolute;
+     margin-top: -50%;
+}
+
+.wishing_section {
+     background-color: #143d53;
+     padding: 30px 0;
+}
+
+.wishing_right_section {
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+}
+
+.wishing_right_section .title1 {
+     font-size: 40px;
+     color: #FFFFFF;
+     font-weight: bold;
+}
+
+.wishing_right_section .panel {
+     display: flex;
+     flex-direction: row;
+     gap: 30px;
+}
+
+.wishing_right_section .panel .box {
+     display: flex;
+     flex-direction: row;
+     gap: 10px;
+     justify-content: center;
+     align-items: center;
+}
+
+.wishing_right_section .panel .box .title2 {
+     font-size: 16px;
+     color: #FFFFFF;
+}
+
+.wishing_right_section .panel1 {
+     display: flex;
+     flex-direction: row;
+     gap: 30px;
+}
+
+.wishing_right_section .panel1 .title3 {
+     font-size: 25px;
+     color: #FFFFFF;
+}
+
+.wishing_below_section {
+     background-color: #022e46;
+     padding: 40px 0 200px;
+}
+
+.wishing_below_section .panel {
+     display: flex;
+     flex-direction: column;
+     gap: 30px;
+}
+
+.wishing_below_section .title1 {
+     font-size: 16px;
+     color: #FFFFFF;
+}
+
+.contribute_section {
+
+}
+
+.contribute_section .panel {
+     padding: 10px;
+}
+
+.contribute_section .panel .box {
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+     background-color: rgba(2, 46, 70, 0.02);
+     border-radius: 20px;
+     padding: 10px 10px 30px 10px;
+}
+
+.contribute_section .panel .box img {
+     width: 100%;
+     border-radius: 20px;
+}
+
+.contribute_section .panel .box .rect {
+     width: 90%;
+     margin: auto;
+     height: 20px;
+     background-color: #fa869b;
+     border-top-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-bottom-right-radius: 50px;
+}
+
+.contribute_section .panel .box .title1 {
+     width: 90%;
+     margin: auto;
+     color: #022e46;
+     font-size: 25px;
+     font-weight: bold;
+}
+
+.contribute_section .panel .box .title2 {
+     width: 90%;
+     margin: auto;
+     color: rgba(0, 0, 0, 0.6);
+     line-height: 2rem;
+     font-size: 16px;
+}
+
+.contribute_section .panel .box .contributeBtn {
+     background-color: #fa869b;
+     border: none;
+     outline: none;
+     width: 300px;
+     padding: 20px;
+     color: white;
+     border-top-left-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-right-radius: 50px;
+     margin: auto;
+}
+
+.contribute_section .panel .box .contributeBtn:hover {
+     background-color: #f3768d;
+}
+
+.msg_contribute {
+     display: flex;
+     flex-direction: column;
+     gap: 30px;
+     padding: 40px 10px 30px 10px;
+}
+
+.msg_contribute .title1 {
+     font-size: 25px;
+     color: #000000;
+     font-weight: 700;
+}
+
+.msg_contribute .panel {
+     
+}
+
+.msg_contribute .panel .box {
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+}
+
+.msg_contribute .panel .box .title2 {
+     font-size: 25px;
+     color: rgba(0, 0, 0, 0.5);
+}
+
+.aboveMargin {
+     margin-top: -150px;
+}
+
+/* modal */
+.modalBox {
+     display: flex;
+     flex-direction: column;
+     gap: 30px;
+     justify-content: center;
+     align-items: center;
+     padding: 50px;
+}
+
+.modalBox .title1 {
+     font-size: 40px;
+     color: #000000;
+}
+
+.modalBox .title2 {
+     font-size: 16px;
+     color: #000000;
+}
+
+.modalBox .amountBox {
+     display: flex;
+     flex-direction: row;
+     /* justify-content: center; */
+     /* align-items: center; */
+     position: relative;
+}
+
+.modalBox .amountBox .rect {
+     color: #FFFFFF;
+     font-size: 25px;
+     padding: 13px 38px;
+     background-color: #fa869b;
+     border-top-left-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-right-radius: 50px;
+     position: absolute;
+}
+
+.modalBox .amountBox .amountInput {
+     padding: 20px 30px 20px 108px;
+     border-top-left-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-right-radius: 50px;
+     background-color: rgba(2, 46, 70, 0.029999999329447746);
+     border: none;
+     outline: none;
+     width: 100%;
+}
+
+.write_review_form {
+     padding-top: 40px;
+}
+
+.write_review_form .nameInput {
+     padding: 20px 30px;
+     border-top-left-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-right-radius: 50px;
+     background-color: rgba(2, 46, 70, 0.029999999329447746);
+     border: none;
+     outline: none;
+     width: 100%;
+}
+
+.write_review_form .emailInput {
+     padding: 20px 30px;
+     border-top-left-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-right-radius: 50px;
+     background-color: rgba(2, 46, 70, 0.029999999329447746);
+     border: none;
+     outline: none;
+     width: 100%;
+}
+
+.write_review_form .reviewInput {
+     padding: 20px 30px;
+     border-top-left-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-right-radius: 50px;
+     background-color: rgba(2, 46, 70, 0.029999999329447746);
+     border: none;
+     outline: none;
+     width: 100%;
+}
+
+.write_review_form .reviewTextarea {
+     padding: 20px 30px;
+     border-top-left-radius: 20px;
+     border-bottom-left-radius: 20px;
+     border-top-right-radius: 20px;
+     border-bottom-right-radius: 20px;
+     background-color: rgba(2, 46, 70, 0.029999999329447746);
+     border: none;
+     outline: none;
+     width: 100%;
+}
+
+.write_review_form .reviewWriteBtn {
+     background-color: #fa869b;
+     border: none;
+     outline: none;
+     width: 250px;
+     padding: 15px 0;
+     margin-top: 50px;
+     color: white;
+     border-top-left-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-right-radius: 50px;
+     text-align: center;
+}
+
+.write_review_form .reviewWriteBtn:hover {
+     background-color: #f3768d;
+}
+
+.input_detail_padding_right {
+     padding-right: 20px;
+}
+
+.input_detail_padding_left {
+     padding-left: 20px;
+}
+
+.input_detail_padding_top {
+     padding-top: 20px;
+}
+
+/* modal end */
