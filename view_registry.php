@@ -11,19 +11,19 @@
 
 <body>
      <?php include('./include/loggedHeader.php') ?>
-
+ 
      <!-- nav -->
      <div class="nav_section">
           <div class="container">
-               <div class="panel">
+               <div class="panel"> 
                     <a href="/registry_design.php" class="boxPadding">
-                         <div class="box">
+                         <div class="box active">
                               <span class="title1">Registry Design</span>
                               <span class="title2">Edit registry settings</span>
                          </div>
                     </a>
                     <a href="/items.php" class="boxPadding">
-                         <div class="box active">
+                         <div class="box">
                               <span class="title1">Items</span>
                               <span class="title2">8 Items - $0 Goal</span>
                          </div>
