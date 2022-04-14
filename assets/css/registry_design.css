@@ -1,0 +1,141 @@
+.preview_section {
+     padding-top: 50px;
+}
+
+.preview_section .backImg {
+     width: 100%;
+}
+
+.preview_section .previewPanel {
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+}
+
+.preview_section .previewBtn {
+     background-color: #fa869b;
+     border: none;
+     outline: none;
+     width: 250px;
+     padding: 15px 0;
+     margin-top: 50px;
+     color: white;
+     border-top-left-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-right-radius: 50px;
+     text-align: center;
+}
+
+.preview_section .previewBtn:hover {
+     background-color: #f3768d;
+}
+
+
+.register_section {
+     padding: 50px;
+     border-radius: 20px;
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+     margin-top: 50px;
+}
+
+.register_section #email_input {
+     border-radius: 20px;
+     background-color: rgba(2, 46, 70, 0.029999999329447746);
+     padding: 20px;
+     border: none;
+     outline: none;
+     width: 300px;
+}
+
+.register_section .title1 {
+     color: #000000;
+     opacity: 0.7699999809265137;
+}
+
+.register_section .title2 {
+     color: #000000;
+     opacity: 0.47999998927116394;
+     line-height: 2rem;
+}
+
+.register_section .title3 {
+     color: #000000;
+     font-size: 24px;
+}
+
+.register_section .title4 {
+     color: #000000;
+     opacity: 0.47999998927116394;
+}
+
+.register_section .input_group {
+     display: flex;
+     flex-direction: row;
+     gap: 30px;
+}
+
+.register_section .upload_group {
+     display: flex;
+     flex-direction: row;
+     gap: 20px;
+}
+
+.register_section .upload_group .box {
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     gap: 10px;
+     background-color: rgba(2, 46, 70, 0.029999999329447746);
+     padding: 50px;
+     border-radius: 20px;
+}
+
+.register_section .upload_group .box .upload_title {
+     color: #000000;
+     opacity: 0.5;
+     font-size: 16px;
+     text-align: center;
+}
+
+.register_section .input_group .input_form {
+     border-radius: 20px;
+     background-color: rgba(2, 46, 70, 0.029999999329447746);
+     padding: 20px;
+     border: none;
+     outline: none;
+     width: 300px;
+     flex: 1;
+}
+
+.register_section .agree_group {
+     display: flex;
+     flex-direction: row;
+     gap: 10px;
+     align-items: center;
+}
+
+.register_section .saveBtn {
+     background-color: #fa869b;
+     border: none;
+     outline: none;
+     width: 272px;
+     padding: 13px;
+     color: white;
+     border-top-left-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-right-radius: 50px;
+}
+
+.register_section .saveBtn:hover {
+     background-color: #f3768d;
+}
+
+.termsText {
+     text-decoration: none !important;
+}

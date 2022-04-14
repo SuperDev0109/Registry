@@ -1,0 +1,196 @@
+.headerBox_section {
+     padding-top: 50px;
+     display: flex;
+     flex-direction: column;
+     gap: 30px;
+     justify-content: center;
+     align-items: center;
+}
+
+.headerBox_section .title1 {
+     font-size: 40px;
+     color: black;
+}
+
+.headerBox_section .panel {
+     display: flex;
+     flex-direction: row;
+     gap: 20px;
+}
+
+.headerBox_section .panel .box {
+     padding: 5px 50px;
+     background-color: #f7f8f9;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     border-radius: 20px;
+     gap: 10px;
+}
+
+.headerBox_section .panel .box .title2 {
+     color: #fa869b;
+     font-size: 40px;
+}
+
+.headerBox_section .panel .box .title3 {
+     color: #fa869b;
+     font-size: 30px;
+}
+
+.items_section {
+}
+
+.items_section .boxPadding {
+     padding: 20px;
+}
+
+.items_section .title1 {
+     font-size: 40px;
+     color: black;
+     padding-left: 20px;
+}
+
+.items_section .title2 {
+     font-size: 25px;
+     color: black;
+     padding-left: 20px;
+}
+
+.items_section .panel {
+     display: flex;
+     flex-direction: column;
+     gap: 10px;
+}
+
+.items_section .box {
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     position: relative;
+}
+
+.items_section .box .addBtn {
+     position: absolute;
+     background-color: #fa869b;
+     border: none;
+     outline: none;
+     width: 250px;
+     padding: 15px;
+     color: white;
+     border-top-left-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-right-radius: 50px;
+}
+
+.items_section .box .addBtn:hover {
+     background-color: #f3768d;
+}
+
+.items_section .nameInput {
+     padding: 15px 20px;
+     border-top-left-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-right-radius: 50px;
+     background-color: rgba(2, 46, 70, 0.029999999329447746);
+     border: none;
+     outline: none;
+     width: 100%;
+}
+
+.items_section .descInput {
+     padding: 15px 20px;
+     border-radius: 20px;
+     background-color: rgba(2, 46, 70, 0.029999999329447746);
+     border: none;
+     outline: none;
+     width: 100%;
+}
+
+.items_section .goalGroup {
+     position: relative;
+}
+
+.items_section .goalGroup .symbol {
+     position: absolute;
+     top: 10px;
+     left: 20px;
+     font-size: 23px;
+}
+
+.items_section .goalGroup .goalInput {
+     padding: 15px 20px 15px 50px;
+     border-top-left-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-right-radius: 50px;
+     background-color: rgba(2, 46, 70, 0.029999999329447746);
+     border: none;
+     outline: none;
+     width: 100%;
+}
+
+.registry_form {
+     padding-top: 30px;
+     padding-left: 20px;
+     display: flex;
+     flex-direction: column;
+     gap: 30px;
+}
+
+.registry_form .box {
+     width: 320px;
+     padding: 40px;
+     border-radius: 20px;
+     border: 1.5px solid #022e46;
+     display: flex;
+     flex-direction: column;
+     gap: 10px;
+     justify-content: center;
+     align-items: center;
+}
+
+.registry_form .btnForm {
+     display: flex;
+     flex-direction: row;
+     gap: 20px;
+     /* justify-content: space-between; */
+}
+
+.registry_form .btnForm .saveBtn {
+     background-color: #fa869b;
+     border: none;
+     outline: none;
+     padding: 15px;
+     color: white;
+     width: 150px;
+     border-top-left-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-right-radius: 50px;
+}
+
+.registry_form .btnForm .saveBtn:hover {
+     background-color: #f3768d;
+}
+
+.registry_form .btnForm .skipBtn {
+     background-color: #f7f8f9;
+     border: none;
+     outline: none;
+     padding: 15px;
+     width: 150px;
+     color: black;
+     border-top-left-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-right-radius: 50px;
+}
+
+.registry_form .btnForm .skipBtn:hover {
+     background-color: rgba(2, 46, 70, 0.059999999329447746);
+}

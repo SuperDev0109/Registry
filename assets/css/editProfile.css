@@ -1,0 +1,156 @@
+.account_section {
+     padding-top: 50px;
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+}
+
+.account_section .title1 {
+     font-size: 40px;
+     color: #022e46;
+}
+
+.account_section .firstnameInput {
+     border-radius: 50px;
+     background-color: #fff9fa;
+     padding: 20px;
+     border: none;
+     outline: none;
+}
+
+.account_section .lastnameInput {
+     border-radius: 50px;
+     background-color: #fff9fa;
+     padding: 20px;
+     border: none;
+     outline: none;
+}
+
+.account_section .title2 {
+     font-size: 25px;
+     color: black;
+}
+
+.account_section .emailInput {
+     border-radius: 50px;
+     background-color: #fff9fa;
+     padding: 20px;
+     border: none;
+     outline: none;
+}
+
+.account_section .title3 {
+     font-size: 40px;
+     color: #022e46;
+}
+
+.account_section .title4 {
+     font-size: 25px;
+     color: black;
+}
+
+.account_section .passwordInput {
+     border-radius: 50px;
+     background-color: #fff9fa;
+     padding: 20px;
+     border: none;
+     outline: none;
+}
+
+.account_section .title5 {
+     font-size: 25px;
+     color: black;
+}
+
+.account_section .title6 {
+     font-size: 25px;
+     color: black;
+}
+
+.account_section .saveBtn {
+     background-color: #fa869b;
+     border: none;
+     outline: none;
+     width: 200px;
+     padding: 20px;
+     color: white;
+     border-top-left-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-right-radius: 50px;
+}
+
+.account_section .saveBtn:hover {
+     background-color: #f3768d;
+}
+
+.account_section .title7 {
+     font-size: 40px;
+     color: #022e46;
+}
+
+.account_section .title8 {
+     font-size: 40px;
+     color: #022e46;
+     font-weight: 700;
+}
+
+.account_section .title9 {
+     font-size: 40px;
+     color: #022e46;
+}
+
+.account_section .title10 {
+     font-size: 25px;
+     color: black;
+     line-height: 2rem;
+}
+
+.account_section .QR_box {
+     display: flex;
+     flex-direction: row;
+     gap: 40px;
+}
+
+.account_section .QR_box .QR_subbox .form-check {
+     padding-left: 40px;
+}
+
+.account_section .QR_box .QR_subbox {
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+}
+
+.account_section .QR_box .QR_subbox .title11 {
+     font-size: 25px;
+     color: black;
+     font-weight: 700;
+}
+
+.account_section .QR_box .QR_subbox .title12 {
+     font-size: 25px;
+     color: black;
+}
+
+.account_section .QR_box .QR_subbox .title13 {
+     font-size: 25px;
+     color: #022e46;
+}
+
+.account_section .settingBtn {
+     background-color: #fa869b;
+     border: none;
+     outline: none;
+     width: 200px;
+     padding: 20px;
+     color: white;
+     border-top-left-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-right-radius: 50px;
+}
+
+.account_section .settingBtn:hover {
+     background-color: #f3768d;
+}

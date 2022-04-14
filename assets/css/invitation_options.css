@@ -1,0 +1,81 @@
+.guest_section {
+     padding-top: 50px;
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+}
+
+.guest_section .title1 {
+     font-size: 40px;
+     color: #022e46;
+}
+
+.guest_section .title2 {
+     font-size: 20px;
+     color: #000000;
+}
+
+.guest_section .title3 {
+     font-size: 20px;
+     color: #022e46;
+     line-height: 2rem;
+}
+
+.guest_section .emailInput {
+     border-radius: 50px;
+     background-color: #f7f8f9;
+     padding: 20px;
+     border: none;
+     outline: none;
+}
+
+.guest_section .inviteInput {
+     border-radius: 20px;
+     background-color: #f7f8f9;
+     padding: 20px;
+     border: none;
+     outline: none;
+}
+
+.togglePanel {
+     padding-left: 10px;
+     display: flex;
+     flex-direction: column;
+     gap: 10px;
+}
+
+.form-check-input {
+     font-size: 20px;
+     cursor: pointer !important;
+}
+
+.form-check-label {
+     font-size: 20px;
+     cursor: pointer !important;
+}
+
+.form-check-input:checked {
+     background-color: #fa869b;
+     border-color: #fa869b;
+}
+
+.savePanel {
+     padding-top: 20px;
+}
+
+.savePanel .sendBtn {
+     background-color: #fa869b;
+     border: none;
+     outline: none;
+     width: 150px;
+     padding: 10px 15px;
+     color: white;
+     border-top-left-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-right-radius: 50px;
+}
+
+.savePanel .sendBtn:hover {
+     background-color: #f3768d;
+}

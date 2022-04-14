@@ -1,0 +1,65 @@
+.main_section {
+     padding-top: 50px;
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     gap: 50px;
+}
+
+.main_section .box {
+     display: flex;
+     flex-direction: row;
+     gap: 20px;
+}
+
+.main_section .box .subbox {
+     display: flex;
+     flex-direction: column;
+     gap: 10px;
+}
+
+.main_section .box .subbox .title1 {
+     font-size: 40px;
+     color: #022e46;
+}
+
+.main_section .box .subbox .title2 {
+     font-size: 25px;
+     color: black;
+}
+
+.main_section .active_box {
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+     justify-content: center;
+     align-items: center;
+}
+
+.main_section .active_box .title1 {
+     font-size: 40px;
+     color: #022e46;
+}
+
+.main_section .active_box .title2 {
+     font-size: 25px;
+     color: black;
+}
+
+.main_section .activateBtn {
+     background-color: #fa869b;
+     border: none;
+     outline: none;
+     width: 300px;
+     padding: 20px;
+     color: white;
+     border-top-left-radius: 50px;
+     border-bottom-left-radius: 50px;
+     border-top-right-radius: 50px;
+     border-bottom-right-radius: 50px;
+}
+
+.main_section .activateBtn:hover {
+     background-color: #f3768d;
+}
