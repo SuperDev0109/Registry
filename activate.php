@@ -28,7 +28,7 @@
                               <span class="title2">8 Items - $0 Goal</span>
                          </div>
                     </a>
-                    <a href="/activate" class="boxPadding">
+                    <a href="/activate.php" class="boxPadding">
                          <div class="box active">
                               <span class="title1">Activate</span>
                               <span class="title2">Not yet activated</span>
